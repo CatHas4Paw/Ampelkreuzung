@@ -1,0 +1,11 @@
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Release\Traffic Light Simulator 2020 (MIS).exe.config
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Release\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Release\Traffic Light Simulator 2020 (MIS).pdb
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic Light Simulator 2020 (MIS).csprojAssemblyReference.cache
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic_Light_Simulator_2020__MIS_.Ampel.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic_Light_Simulator_2020__MIS_.Simulator.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic_Light_Simulator_2020__MIS_.Kreuzung.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic_Light_Simulator_2020__MIS_.Properties.Resources.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic Light Simulator 2020 (MIS).csproj.GenerateResource.cache
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Release\Traffic Light Simulator 2020 (MIS).pdb

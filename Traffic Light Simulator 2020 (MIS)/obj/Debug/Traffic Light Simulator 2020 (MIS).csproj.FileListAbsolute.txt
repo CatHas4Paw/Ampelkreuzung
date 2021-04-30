@@ -1,0 +1,52 @@
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\Traffic Light Simulator 2020 (MIS).exe.config
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\Traffic Light Simulator 2020 (MIS).pdb
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Ampel.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Properties.Resources.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).csproj.GenerateResource.cache
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).pdb
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Kreuzung.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\bin\Debug\Traffic Light Simulator 2020 (MIS).exe.config
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\bin\Debug\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\bin\Debug\Traffic Light Simulator 2020 (MIS).pdb
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Ampel.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Kreuzung.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Properties.Resources.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic Light Simulator 2020 (MIS).csproj.GenerateResource.cache
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic Light Simulator 2020 (MIS).pdb
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic Light Simulator 2020 (MIS).csprojAssemblyReference.cache
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).csprojAssemblyReference.cache
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\de-DE\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\de\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.de-DE.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.de.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\de-DE\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\de\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.de-DE.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.de.resources
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\bin\Debug\de-DE\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\bin\Debug\de\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\de-DE\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MIS\Documents\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS) - Kopie\obj\Debug\de\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\Traffic Light Simulator 2020 (MIS).exe.config
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\Traffic Light Simulator 2020 (MIS).pdb
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\de-DE\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\bin\Debug\de\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).csprojAssemblyReference.cache
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Ampel.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Kreuzung.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Properties.Resources.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.de-DE.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic_Light_Simulator_2020__MIS_.Simulator.de.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).csproj.GenerateResource.cache
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).csproj.CoreCompileInputs.cache
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\de-DE\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\de\Traffic Light Simulator 2020 (MIS).resources.dll
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).exe
+C:\Users\MS-23\Documents\Programme (VS)\C#\Ampelkreuzung\Traffic Light Simulator 2020 (MIS)\obj\Debug\Traffic Light Simulator 2020 (MIS).pdb
